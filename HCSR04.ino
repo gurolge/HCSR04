@@ -1,4 +1,4 @@
-/* Copyright 2020 Gurol Gezer 2020.
+/* Copyright 2020 Gurol Gezer.
 
   This file is part of HCSR04 library.
 
